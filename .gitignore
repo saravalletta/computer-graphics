@@ -1,0 +1,30 @@
+# Blender backup/autosave
+*.blend1
+*.blend2
+*.blend3
+*.blend@
+*.tmp
+
+# Cache / simulation cache (NON versionare)
+**/cache/
+**/*_cache/
+**/simcache/
+**/fluid_cache/
+**/mantaflow/
+**/manta/
+**/physics/
+
+# Video pesanti / final renders (opzionale)
+renders/final/
+*.avi
+*.mp4
+*.mov
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python cache (se userai script)
+__pycache__/
+*.pyc
+
