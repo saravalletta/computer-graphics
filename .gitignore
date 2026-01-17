@@ -31,3 +31,5 @@ __pycache__/
 # Immagini di supporto
 **/images/
 
+# Add-ons
+**/add-ons/
