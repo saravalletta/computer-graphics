@@ -28,8 +28,5 @@ Thumbs.db
 __pycache__/
 *.pyc
 
-# Immagini di supporto
-**/images/
-
 # Add-ons
 **/add-ons/
